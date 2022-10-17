@@ -18,7 +18,7 @@ if (randomTopic === 'HTML') {
 } else if (randomTopic === 'Javascript') {
     console.log("Let's study Javascript!");
 } else {
-    console.log('SPlease try again!');
+    console.log('Please try again!');
 }
 }
 
